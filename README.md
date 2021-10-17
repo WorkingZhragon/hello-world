@@ -1,2 +1,2 @@
-# hello-world
-Just a test repository
+# Daily Zbrush 
+good good study, day day up.
